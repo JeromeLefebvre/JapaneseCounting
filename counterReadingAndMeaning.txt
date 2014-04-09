@@ -1,0 +1,176 @@
+#futatabi (once more, another time) is normally written 再び instead of 二度
+#Kanji;;Reading;;Meaning;;Extra Notes specific to the character
+部；；ぶ；；Copies of a magazine or newspaper, or other packets of papers
+台；；だい；；Cars, bicycles, machines, mechanical devices, household appliances
+杯；；はい、ぱい、ばい；；Cups and glasses of drink, spoonsful; cuttlefish, octopuses, crabs, squid, abalone, boats (slang)
+匹；；ひき、ぴき、びき；；Small animals, insects, fish, reptiles, amphibians, oni (demons/ogres)
+本；；ほん、ぽん、ぼん；；Long, thin objects: rivers, roads, train tracks, ties, pencils, bottles, guitars; also, metaphorically, telephone calls, train or bus routes, movies (see also: 通話), points or bounds in sports events. Although 本 also means "book", the counter for books is 冊.
+階；；かい、がい；；Number of floors, storeys
+個；；こ；；General measurement word, used when there is no specific counter. Implies that the item is small and/or round and is also used for military units.
+箇；；こ；；General measurement word, used when there is no specific counter. Implies that the item is small and/or round.
+个；；こ；；General measurement word, used when there is no specific counter. Implies that the item is small and/or round.
+ヶ；；こ；；General measurement word, used when there is no specific counter. Implies that the item is small and/or round.	
+枚；；まい；；Thin, flat objects: sheets of paper, photographs, plates, articles of clothing (see also: 着)
+名；；めい；；People (polite) (名 means "name")
+面；；めん；；Mirrors, boards for board games (chess, igo, shogi), stages of computer games, walls of a room, tennis courts
+人；；り；；People, used in the words 一人 (ひとり) and 二人 (ふたり)
+冊；；さつ；；Books
+つ；；つ；；General-purpose counter, used as part of the indigenous Japanese numbers 一つ ("one thing"), 二つ ("two things"), 三つ ("three things"), etc.
+話；；わ；；Stories, episodes of TV series, etc.
+秒；；びょう；；Seconds
+分；；ふん；；Minutes
+月；；がつ；；Months of the year. Month-long periods when read tsuki (see also: kagetsu)；；Other uses of traditional numbers are usually restricted to certain phrases, such as 一月 hitotsuki and 二月 futatsuki (one and two months respectively)
+泊；；はく；；Nights of a stay
+時；；じ；；Hours of the day
+時間；；じかん；；Hour-long periods
+日；；か；；Day of the month
+ヶ月, 箇月；；かげつ；；Month-long periods (see also: gatsu). 箇 is normally abbreviated using a small katakana ヶ in modern Japanese. Alternatively 個, hiragana か, small katakana ヵ and full-size katakana カ & ケ can also be seen, although only か is similarly frequent.
+年；；ねん；；Years, school years (grades); not years of age
+日；；にち；；Days of the month (but see table of exceptions below)
+歳；；さい；；Years of age (才 is used informally as a shorthand)；；The traditional numbers are used by and for young children to give their ages, instead of using the age counter 歳 (or 才) sai.
+才；；さい；；Years of age (才 is used informally as a shorthand)；；The traditional numbers are used by and for young children to give their ages, instead of using the age counter 歳 (or 才) sai.
+週；；しゅう；；Weeks
+倍；；ばい；；Multiples, -fold as in "twofold"
+番；；ばん；；Position, turn, sports matches
+度；；ど；；Occurrences, number of times, degrees of temperature or angle (see also: kai).futatabi (once more, another time) is normally written 再び instead of 二度
+畳；；じょう；；Tatami mats. The kanji 畳 is also read tatami and is the same one used for the mats. The room size of a washitsu in Japan is given as a number of mats, for example 4½ jō
+回；；かい；；Occurrences, number of times (see also: do)
+場；；ば；；Scene of a play
+倍；；ばい；；Multiples, -fold as in "twofold"
+晩；；ばん；；Nights (see also: ya)
+番；；ばん；；Position, turn, sports matches
+尾；；び；；Small fish and shrimps (used in the fish trade; most people say 匹 instead)
+部；；ぶ；；Copies of a magazine or newspaper, or other packets of papers
+文；；ぶん；；Sentences
+秒；；びょう；；Seconds
+拍子；；びょうし；；Musical beats
+着；；ちゃく；；Suits of clothing (see also: mai)
+挺；；ちょう；；Guns, sticks of ink, palanquins, rickshaws, violins
+丁；；ちょう；；Tools, scissors, saws, trousers, pistols, cakes of tofu, town blocks, servings at a restaurant
+町；；ちょう；；Town blocks
+代；；だい；；Generations, historical periods, reigns
+台；；だい；；Cars, bicycles, machines, mechanical devices, household appliances
+段；；だん；；levels, ranks, steps (of stairs).
+段落；；だんらく；；Paragraphs
+度；；ど；；Occurrences, number of times, degrees of temperature or angle (see also: kai).
+筆；；ふで；；Sequences of letters or drawings that you write or draw without removing your pen off the paper. Not to be confused with "hitsu" (筆) below.
+服；；ふく；；Bowls of matcha (powdered green tea); packets or doses of powdered medicine; puffs (of, e.g., a cigarette); rests or breaks
+幅；；ふく；；Hanging scrolls (kakejiku)
+分；；ふん；；Minutes
+振；；ふり；；Swords
+学級；；がっきゅう；；Classes (in pre-university education)
+月；；がつ；；Months of the year. Month-long periods when read tsuki (see also: kagetsu)
+語；；ご；；Words
+言；；ごん；；Words；；Only one special case: 一言 hitokoto (a single word)
+具；；ぐ；；Suits of armour, sets of furniture
+行；；ぎょう；；Lines of text
+泊；；はく；；Nights of a stay
+杯；；はい；；Cups and glasses of drink, spoonfuls, cuttlefish, octopuses, crabs, squid, abalone, boats (slang)
+敗；；はい；；Losses (sports bouts)
+箱；；はこ；；Boxes
+張；；はり；；Umbrellas, parasols, tents
+柱；；はしら；；Gods, memorial tablets
+発；；はつ；；Gunshots, bullets, aerial fireworks; orgasms, sex acts
+匹；；ひき；；Small animals, insects, fish, reptiles, amphibians, oni (ogres)
+品；；ひん；；Parts of a meal, courses (see also: shina)
+筆；；ひつ；；Pieces of land
+歩；；ほ；；Number of (foot)steps
+本；；ほん；；Long, thin objects: rivers, roads, train tracks, ties, pencils, bottles, guitars; also, metaphorically, telephone calls (see also: tsūwa), train or bus routes, movies, home runs, points or bounds[clarification needed] in sports events. Although 本 also means "book", the counter for books is satsu.
+票；；ひょう；；Votes
+字；；じ；；Letters, kanji, kana
+児；；じ；；Children. As in "father of two (children)", etc.
+時；；じ；；Hours of the day
+時間；；じかん；；Hour-long periods
+畳；；じょう；；Tatami mats. The kanji 畳 is also read tatami and is the same one used for the mats. The room size of a washitsu in Japan is given as a number of mats, for example 4½ yo jō han
+錠；；じょう；；Pills/capsules
+条；；じょう；；Articles of law, thin objects, rays or streams of light, streaks of smoke or lightning
+日；；か；；Day of the month
+架；；か；；Frames
+課；；かぶ；；Lessons
+株；；かぶ；；Stocks; nursery trees
+ヶ月；；かげつ；；Month-long periods (see also: gatsu). 箇 is normally abbreviated using a small katakana ヶ in modern Japanese. Alternatively 個, hiragana か, small katakana ヵ and full-size katakana カ & ケ can also be seen, although only か is similarly frequent.
+箇月；；かげつ；；Month-long periods (see also: gatsu). 箇 is normally abbreviated using a small katakana ヶ in modern Japanese. Alternatively 個, hiragana か, small katakana ヵ and full-size katakana カ & ケ can also be seen, although only か is similarly frequent.
+回；；かい；；Occurrences, number of times (see also: do)
+階；；かい；；Number of floors, storeys
+ヶ国；；かこく；；Countries
+箇国；；かこく；；Countries
+か国；；かこく；；Countries
+ヶ国語；；かこくご；；(National) languages
+箇国語；；かこくご；；(National) languages
+画；；かく；；Strokes in kanji
+貫；；かん；；Pieces of nigiri-zushi
+艦；；かん；；Warships
+系統；；けいとう；；Bus routes
+件；；けん；；Abstract matters and cases
+軒；；けん；；Houses
+機；；き；；Aircraft, machines
+基；；き；；Graves, wreaths, CPUs, reactors, elevators, dams
+切れ；；きれ；；Slices (of bread, cake, sashimi etc.)
+戸；；こ；；Houses (戸 means "door")
+校；；こう；；Schools
+稿；；こう；；Drafts of a manuscript
+行；；こう；；Banks
+齣；；こま；；Frames, panels. 齣 is virtually unused nowadays.
+献；；こん；；shots (of drink)
+区；；く；；Sections, city districts
+句；；く；；Haiku, senryū
+口；；くち；；(Bank) accounts, donations (口 means "opening" or "entrance")
+組；；くみ；；Groups, a pair of people (twins, a husband and a wife, dancers, etc.)
+クラス；；くらす；；School classes
+脚；；きゃく；；Desks, chairs, long-stemmed glasses
+客；；きゃく；；Pairs of cup and saucer
+曲；；きょく；；Pieces of music
+局；；きょく；；Board game matches (chess, igo, shogi, mahjong); radio stations, television stations
+枚；；まい；；Thin, flat objects, sheets of paper, photographs, plates, articles of clothing (see also: chaku)
+巻；；まき；；Rolls, scrolls, kan for volumes of book
+幕；；まく；；Theatrical acts
+名；；めい；；People (polite) (名 means "name")
+面；；めん；；Mirrors, boards for board games (chess, igo, shogi), stages of computer games, walls of a room, tennis courts,
+門；；もん；；Cannons
+問；；もん；；Questions
+年；；ねん；；Years, school years (grades); not years of age
+日；；にち；；Days of the month (but see table of exceptions below)
+人；；にん；；People (but see table of exceptions below)
+人前；；にんまえ；；Food portions (without exceptions, unlike nin above)
+折；；おり；；Boxes made of folded paper (compare to hako above, which refers to boxes in general)
+ページ；；ぺーじ；；Pages
+頁；；ぺーじ；；Pages
+例；；れい；；Cases, Examples
+礼；；れい；；Bows during worship at a shrine
+り or 人；；り；；People, used in the words 一人 (ひとり) and 二人 (ふたり). Sometimes common numbers that have a derived meaning are written using different kanji. For example, hitori (alone) is written 独り
+輪；；りん；；Wheels, Flowers
+両；；りょう；；Railway cars
+才；；さい；；Years of age
+歳；；さい；；Years of age
+棹；；さお；；Chests of drawers, flags
+冊；；さつ；；Books
+席；；せき；；Seats, Rakugo shows, (drinking) parties
+隻；；せき；；Ships, half of a pair (e.g., half of a folding screen), item carried in a bundle (fish, birds, arrows etc.)
+品；；しな；；Parts of a meal, courses (see also: hin)
+社；；しゃ；；used for businesses, i.e. 会社
+式；；しき；；Sets of things, such as documents or furniture
+勝；；しょう；；Wins (sports bouts)
+首；；しゅ；；Tanka
+週；；しゅう；；Weeks
+種類；；しゅるい；；Kinds, species
+種；；しゅるい；；Kinds, species
+足；；そく；；Pairs of footwear, pairs of socks, stockings, tabi
+束；；たば；；bundles (of banknotes), bunches (of flowers, vegetables), sheaves
+体；；たい；；Images, statues, person's remains, dolls
+俵；；たわら；；Bags of rice
+滴；；てき；；Drops of liquid
+点；；てん；；Points, dots, pieces of a set
+頭；；とう；；Large animals, cattle, elephants, whales, dolphins, butterflies (頭 means "head")
+時；；とき；；Time periods, a sixth of either day or night (in the traditional, obsolete way of telling time). See also: jikan
+通り；；とおり；；Combinations, puzzle solutions
+つ；；つ；；Used as part of the indigenous Japanese numbers 一つ, 二つ, 三つ etc.
+通；；つう；；Letters
+坪；；つぼ；；Commonly used unit of area equal to 3.3 square metres.
+通話；；つうわ；；Telephone calls (see also: hon)
+羽；；わ；；Birds, rabbits* (see note); 羽 means "feather" or "wing."
+把；；わ；；Bundles
+話；；わ；；Stories, episodes of TV series, etc.
+夜；；や；；Nights (see also: ban)
+膳；；ぜん；；Pairs of chopsticks; bowls of rice
+千；；せん；；Readings of 1000s
+世帯；；せたい；；Household, family

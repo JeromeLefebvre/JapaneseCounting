@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>本</key>
+	<dict>
+		<key>Counter</key>
+		<string>本</string>
+		<key>Reading</key>
+		<string>ほん</string>
+		<key>Meaning</key>
+		<string>To count long, cylindrical objects such as bottles or chopsticks</string>
+		<key>Exceptions</key>
+		<dict>
+			<key>1</key>
+			<string>いっぽん</string>
+			<key>3</key>
+			<string>さんぼん</string>
+			<key>6</key>
+			<string>ろっぽん</string>
+			<key>0</key>
+			<string>じゅっぽん</string>
+		</dict>
+	</dict>
+	<key>人</key>
+	<dict>
+		<key>Counter</key>
+		<string>人</string>
+		<key>Reading</key>
+		<string>にん</string>
+		<key>Meaning</key>
+		<string>To count the number of people</string>
+		<key>Exceptions</key>
+		<dict>
+			<key>1</key>
+			<string>ひとり</string>
+			<key>2</key>
+			<string>ふたり</string>
+			<key>4</key>
+			<string>よにん</string>
+			<key>7</key>
+			<string>しちにん</string>
+		</dict>
+	</dict>	
+</dict>
+</plist>

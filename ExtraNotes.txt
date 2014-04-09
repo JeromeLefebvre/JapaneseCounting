@@ -1,0 +1,5 @@
+# A page of notes that can't really be included in the list (yet)
+
+Deal with these cases: The traditional numbers are used by and for young children to give their ages, instead of using the age counter 歳 (or 才) sai.
+Some counters, notably 日 nichi and 人 nin, use the traditional numerals for some numbers as shown in the table below. Other uses of traditional numbers are usually restricted to certain phrases, such as 一月 hitotsuki and 二月 futatsuki (one and two months respectively), 一言 hitokoto (a single word) and 一度 hitotabi (once).
+Sometimes common numbers that have a derived meaning are written using different kanji. For example, hitori (alone) is written 独り, and futatabi (once more, another time) is normally written 再び instead of 二度. The counter for months kagetsu (derived from kanji 箇月) is commonly written ヶ月.

@@ -1,0 +1,50 @@
+(dp0
+S'aDict'
+p1
+(dp2
+S'aFalseValue'
+p3
+I00
+sS'aThirdString'
+p4
+S'M\xe4ssig, Ma\xdf'
+p5
+sS'aTrueValue'
+p6
+I01
+sS'anotherString'
+p7
+S'<hello & hi there!>'
+p8
+ssS'aString'
+p9
+S'Doodah'
+p10
+sS'someData'
+p11
+S'<binary gunk>'
+p12
+sS'aFloat'
+p13
+F0.1
+sS'aList'
+p14
+(lp15
+S'A'
+p16
+aS'B'
+p17
+aI12
+aF32.1
+a(lp18
+I1
+aI2
+aI3
+aasS'anInt'
+p19
+I728
+sS'someMoreData'
+p20
+S'<lots of binary gunk><lots of binary gunk><lots of binary gunk><lots of binary gunk><lots of binary gunk><lots of binary gunk><lots of binary gunk><lots of binary gunk><lots of binary gunk><lots of binary gunk>'
+p21
+s.

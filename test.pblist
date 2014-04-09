@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>人</key>
+	<dict>
+		<key>Counter</key>
+		<string>人</string>
+		<key>Exceptions</key>
+		<dict>
+			<key>1</key>
+			<string>ひとり</string>
+			<key>2</key>
+			<string>ふたり</string>
+			<key>4</key>
+			<string>よにん</string>
+			<key>7</key>
+			<string>しちにん</string>
+		</dict>
+		<key>Meaning</key>
+		<string>To count the number of people</string>
+		<key>Reading</key>
+		<string>にん</string>
+	</dict>
+	<key>冊</key>
+	<dict>
+		<key>Counter</key>
+		<string>冊</string>
+		<key>Exceptions</key>
+		<dict>
+			<key>0</key>
+			<string>じゅっさつ </string>
+			<key>1</key>
+			<string>いっさつ</string>
+			<key>8</key>
+			<string>はっさつ</string>
+		</dict>
+		<key>Meaning</key>
+		<string>To count bound objects usually books</string>
+		<key>Reading</key>
+		<string>さつ</string>
+	</dict>
+	<key>匹</key>
+	<dict>
+		<key>Counter</key>
+		<string>匹</string>
+		<key>Exceptions</key>
+		<dict>
+			<key>0</key>
+			<string>じゅっぴき</string>
+			<key>1</key>
+			<string>いっぴき</string>
+			<key>3</key>
+			<string>さんびき</string>
+			<key>6</key>
+			<string>ろっぴき</string>
+			<key>8</key>
+			<string>はっぴき</string>
+		</dict>
+		<key>Meaning</key>
+		<string>To count small animals like cats or dogs</string>
+		<key>Reading</key>
+		<string>ひき</string>
+	</dict>
+	<key>本</key>
+	<dict>
+		<key>Counter</key>
+		<string>本</string>
+		<key>Exceptions</key>
+		<dict>
+			<key>0</key>
+			<string>じゅっぽん </string>
+			<key>1</key>
+			<string>いっぽん</string>
+			<key>3</key>
+			<string>さんぼん</string>
+			<key>6</key>
+			<string>ろっぽん</string>
+		</dict>
+		<key>Meaning</key>
+		<string>To count long, cylindrical objects such as bottles or chopsticks</string>
+		<key>Reading</key>
+		<string>ほん</string>
+	</dict>
+	<key>枚</key>
+	<dict>
+		<key>Counter</key>
+		<string>枚</string>
+		<key>Exceptions</key>
+		<dict>
+		</dict>
+		<key>Meaning</key>
+		<string>To count thin objects such as paper or shirts</string>
+		<key>Reading</key>
+		<string>まい</string>
+	</dict>
+</dict>
+</plist>
