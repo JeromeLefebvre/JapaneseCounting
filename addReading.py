@@ -339,22 +339,20 @@ class MyTest(unittest.TestCase):
 
 def main():
     unittest.main()
-
+	
 def mainTwo():
 	import sys
 	counter = sys.argv[1]
 	counterReadings = dictionaryOfCounterReading()
 	print(counterReadings[counter][1])
-	printTen(counter)
+	range_values = sys.argv[2]
+	start, end = range_values.split('-')
+	print_range(counter, int(start), int(end)+1)
 
-def printTen(counter):
-	for i in range(1,11):
+def print_range(counter, start, end):
+	for i in range(start, end):
 		print(str(i)+counter + '=' + str(reading(i,counter)))
 
 if __name__ == '__main__':
-    main()  
+    mainTwo()
     
-
-
-
-
