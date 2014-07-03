@@ -27,11 +27,32 @@ class mojiretsu(str):
         except:
             return letter
 
+    def count(self, ichi=2):
+        ''' Converts a string reprensenting an integer into kanjis
+            The setting for ichi means: 0: do not write any 一, 1 always write 一, 2 use the "common" case'''
+        assert(self.isnumeric())
+        number = int(self)
+        original_number = number
+        # Not sure how to handle 1000**6, since there is there are two possible
+        # choices for the kanji, then for the larger number, the associated number
+        # is ambigious.
+        listOfSteps = ((10000 ** 5, '垓'), (10000 ** 4, '京'), (10000 ** 3, '兆'),
+                       (10000 ** 2, '億'), (10000, '万'), (1000, '千'), (100, '百'), (10, '十'))
+        reading = []
+        for step, counter in listOfSteps:
+            forThisStep = int((number - number % step) / step)
+            number = number % step
+            if forThisStep > 0:
+                reading += [(forThisStep, counter)]
+        string = ''.join( str(a) + b for a,b in reading )
+        if number > 0:
+            reading.append(number)
+            string += str(number)
+        return string
 
     @staticmethod
     def katakana(gyo, dan):
-        d = {
-            ('あ','あ'): 'ア', ('あ','い'): 'イ', ('あ','う'): 'ウ', ('あ','え'): 'エ', ('あ','お'): 'オ',
+        d = {('あ','あ'): 'ア', ('あ','い'): 'イ', ('あ','う'): 'ウ', ('あ','え'): 'エ', ('あ','お'): 'オ',
             ('か','あ'): 'カ', ('か','い'): 'キ', ('か','う'): 'ク', ('か','え'): 'ケ', ('か','お'): 'コ',
             ('さ','あ'): 'サ', ('さ','い'): 'シ', ('さ','う'): 'ス', ('さ','え'): 'セ', ('さ','お'): 'ソ',
             ('た','あ'): 'タ', ('た','い'): 'チ', ('た','う'): 'ツ', ('た','え'): 'テ', ('た','お'): 'ト',
@@ -41,7 +62,7 @@ class mojiretsu(str):
             ('や','あ'): 'ヤ',                   ('や','う'): 'ユ',                   ('や','お'): 'ヨ',
             ('ら','あ'): 'ラ', ('ら','い'): 'リ', ('ら','う'): 'ル', ('ら','え'): 'レ', ('ら','お'): 'ロ',
             ('わ','あ'): 'ワ', ('わ','い'): 'ヰ',                   ('わ','え'): 'ヱ', ('わ','お'): 'ヲ',
-            ('ん',): 'ン'
+            ('ん',): 'ン',
 
             ('a','a'): 'ア', ('a','i'): 'イ', ('a','u'): 'ウ', ('a','e'): 'エ', ('a','o'): 'オ',
             ('k','a'): 'カ', ('k','i'): 'キ', ('k','u'): 'ク', ('k','e'): 'ケ', ('k','o'): 'コ',
@@ -61,7 +82,6 @@ class mojiretsu(str):
             return KeyError("No katakana for the given pairs %s, %s", gyo, dan)
 
 
-a = mojiretsu("がやく")
-print(a.stripDakuten())
-
-print(mojiretsu.katakana('4','5'))
+for i in range(1, 20):
+    j = mojiretsu(i)
+    print(i,j.count())
