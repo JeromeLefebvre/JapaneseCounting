@@ -23,10 +23,10 @@ reverseDakuten = {
 
 
 
-def count(theNumber, ichi=2, debug=False):
+def count(number, ichi=2, debug=False):
     ''' This returns a kanji version of the number, v3
             The setting for ichi means: 0: do not write any 一, 1 always write 一, 2 use the "common" case'''
-    original_number = theNumber
+    original_number = number
     # Not sure how to handle 1000**6, since there is there are two possible
     # choices for the kanji, then for the larger number, the associated number
     # is ambigious.
@@ -36,12 +36,12 @@ def count(theNumber, ichi=2, debug=False):
     for i in range(0, len(listOfSteps)):
         step = listOfSteps[i][0]
         counter = listOfSteps[i][1]
-        forThisStep = int((theNumber - theNumber % step) / step)
-        theNumber = theNumber % step
+        forThisStep = int((number - number % step) / step)
+        number = number % step
         if forThisStep > 0:
             reading += [(forThisStep, counter)]
-    if theNumber > 0:
-        reading.append(theNumber)
+    if number > 0:
+        reading.append(number)
     return reading
 
 
